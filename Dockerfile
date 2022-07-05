@@ -1,7 +1,7 @@
 FROM openjdk:8
 EXPOSE 8080
-ADD target/demo.jar demo.jar
-ENTRYPOINT ["java","-jar","/demo.jar"]
+ADD target/spring-boot-maven-plugin.jar spring-boot-maven-plugin.jar
+ENTRYPOINT ["java","-jar","/spring-boot-maven-plugin.jar"]
 
 
 
