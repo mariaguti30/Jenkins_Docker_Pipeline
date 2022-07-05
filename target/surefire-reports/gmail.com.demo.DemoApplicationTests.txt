@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: gmail.com.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.703 s - in gmail.com.demo.DemoApplicationTests
